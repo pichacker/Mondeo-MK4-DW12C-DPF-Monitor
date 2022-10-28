@@ -7,7 +7,10 @@ My colleague had wired an LED to the Vapouriser Glow Plug Relay which he brought
 
 This project was born....It uses easily obtainable, cheap, components from the web to create a device that reads parameters from the engine ECU and lights LEDs appropriately. 
 
-Libraries used are the MCP2515 Driver and SPI. I believe that I used the 107-Arduino-MCP2525 by Alexander Entinger https://github.com/107-systems/107-Arduino-MCP2515[Project.zip](https://github.com/pichacker/Mondeo-MK4-DW12C-DPF-Monitor/files/9887955/Project.zip)
+Libraries used are the MCP2515 Driver and SPI. I believe that I used the 107-Arduino-MCP2525 by Alexander Entinger https://github.com/107-systems/107-Arduino-MCP2515[Project.zip]
+
+
+(https://github.com/pichacker/Mondeo-MK4-DW12C-DPF-Monitor/files/9887955/Project.zip)
 
 
 Components required are LEDs, 330R series resistors, small voltage regulator, MCP2515 CAN board (8Mhz), Arduino Pro Micro (5v). And of course a suitable box to stuff it all in. You can decide how to connect to the cars CAN network.
